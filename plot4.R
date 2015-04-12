@@ -1,6 +1,7 @@
 source("commonFunctions.R")
 
 # call function to read data and filter the needed data
+# Please open common Functions.R for filter conditions.
 data <- createDataSet("household_power_consumption.txt")
 
 #define the layout

@@ -1,3 +1,4 @@
+# this function is used for all sorts of filtering things.
 createDataSet <- function(filename){
 
 	## Get all the contents of the file.
